@@ -32,3 +32,5 @@ fn run_task(task: Task) -> Result<TaskResult> {
         vec![format!("{WORKSPACE_PATH}/proof.dat")],
     )
 }
+
+
